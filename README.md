@@ -88,6 +88,10 @@ In the first year you learn the basic programming syntax and Main university cou
 
 ## Third year 
 
+| Lesson Name                                   | brief info   |
+| --- | --- |
+|Network                   |      to-fill-soon      |
+
 
 ## Fourth year 
 
